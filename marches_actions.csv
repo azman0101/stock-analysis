@@ -1,0 +1,14 @@
+Ticker,Nom,Marché,Pays,Timezone,Devise,Secteur,Industrie
+AMD,"Advanced Micro Devices, Inc.",NMS,United States,N/A,USD,Technology,Semiconductors
+COIN,"Coinbase Global, Inc.",NMS,United States,N/A,USD,Financial Services,Financial Data & Stock Exchanges
+CRWD,"CrowdStrike Holdings, Inc.",NMS,United States,N/A,USD,Technology,Software - Infrastructure
+DAL,"Delta Air Lines, Inc.",NYQ,United States,N/A,USD,Industrials,Airlines
+DIS,The Walt Disney Company,NYQ,United States,N/A,USD,Communication Services,Entertainment
+META,"Meta Platforms, Inc.",NMS,United States,N/A,USD,Communication Services,Internet Content & Information
+MSFT,Microsoft Corporation,NMS,United States,N/A,USD,Technology,Software - Infrastructure
+NFLX,"Netflix, Inc.",NMS,United States,N/A,USD,Communication Services,Entertainment
+NVDA,NVIDIA Corporation,NMS,United States,N/A,USD,Technology,Semiconductors
+PLTR,Palantir Technologies Inc.,NMS,United States,N/A,USD,Technology,Software - Infrastructure
+RIOT,"Riot Platforms, Inc.",NCM,United States,N/A,USD,Financial Services,Capital Markets
+SHOP,Shopify Inc.,NMS,Canada,N/A,USD,Technology,Software - Application
+UPST,"Upstart Holdings, Inc.",NMS,United States,N/A,USD,Financial Services,Credit Services
